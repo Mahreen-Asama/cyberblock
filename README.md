@@ -192,8 +192,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Mahreen-Asama">
-            <img src="https://avatars.githubusercontent.com/u/79749919?v=4" width="100;" alt="Mahreen-Asama"/>
+        <a href="https://github.com/mahreenasama">
+            <img src="https://avatars.githubusercontent.com/u/79749919?v=4" width="100;" alt="mahreenasama"/>
             <br />
             <sub><b>Mahreen Asama</b></sub>
         </a>
